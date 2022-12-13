@@ -1,5 +1,5 @@
 
-Import streamlit
+import streamlit
 
 streamlit.title('Healthy Eating for everyone')
 
