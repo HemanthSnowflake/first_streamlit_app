@@ -1,4 +1,4 @@
 
 Import streamlit
 
-streamlit.tittle('Healthy Eating for everyone')
+streamlit.title('Healthy Eating for everyone')
